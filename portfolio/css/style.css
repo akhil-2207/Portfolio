@@ -1,0 +1,26 @@
+/**tag selector**/
+body{
+    background-color: #FFF4E0;
+}
+h1{
+    color: rgb(215, 129, 17);
+}
+/**class selector**/
+.carousel{
+    color: #160202;
+}
+.profile{
+    border-radius: 90%;
+    width:15%;
+    height: 160px;
+    box-shadow: 2px  ;
+     
+}
+.tag{
+    text-decoration: underline;
+}
+/**id selectors**/
+
+.profile :hover{
+    background-color: beige;
+}
